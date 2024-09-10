@@ -1,9 +1,13 @@
-﻿using System;
+﻿//=================================================
+//Copyright(c) Coalition of Good-Hearted Engineers
+//Free To Use Comfort and Peace
+//=================================================
 
-public class Class1
+namespace Sheenam.Api.Tests.Unit
 {
-	public Class1()
-	{
-
-	}
+    public class DeleteMe
+    {
+        [Fact]
+        public void ShouldbeTrue() => Assert.True(true);
+    }
 }
